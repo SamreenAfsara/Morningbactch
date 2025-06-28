@@ -1,0 +1,20 @@
+# Maven build files
+/target/
+
+# IDE settings
+.idea/
+*.iml
+.vscode/
+
+# Logs and compiled files
+*.log
+*.class
+
+# JAR/WAR files
+*.jar
+*.war
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
