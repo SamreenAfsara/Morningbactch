@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="13" passed="9" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :    Status : PASS]]>
+    </line>
+    <line>
+      <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :standard_user  secret_sauce    Status : PASS]]>
+    </line>
+    <line>
+      <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :standard_user  secret_sauce    Status : PASS]]>
+    </line>
+    <line>
+      <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :standard_user  secret_sauce    Status : PASS]]>
+    </line>
+    <line>
+      <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :standard_user  secret_sauce    Status : PASS]]>
+    </line>
+    <line>
+      <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :standard_user  secret_sauce    Status : PASS]]>
+    </line>
+    <line>
+      <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :standard_user  secret_sauce    Status : PASS]]>
+    </line>
+    <line>
+      <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :standard_user  secret_sauce    Status : PASS]]>
+    </line>
+    <line>
+      <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :standard_user  secret_sauce    Status : PASS]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-06-28T08:29:09 IST" name="Suite" finished-at="2025-06-28T08:30:37 IST" duration-ms="87891">
+    <groups>
+      <group name="smoke">
+        <method signature="LoginpageTest.verifyLoginBtnFunctionalityWithValidUsernamePassword()[pri:0, instance:testscripts.LoginpageTest@2a693f59]" name="verifyLoginBtnFunctionalityWithValidUsernamePassword" class="testscripts.LoginpageTest"/>
+        <method signature="LoginpageTest.verifyLoginBtnFunctionalityWithValidUsernamePassword(java.lang.String,java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" name="verifyLoginBtnFunctionalityWithValidUsernamePassword" class="testscripts.LoginpageTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2025-06-28T08:29:09 IST" name="Test" finished-at="2025-06-28T08:30:37 IST" duration-ms="87891">
+      <class name="testscripts.LoginpageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:29:09 IST" name="setup" finished-at="2025-06-28T08:29:15 IST" duration-ms="6712" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginBtnFunctionalityWithValidUsernamePassword()[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:29:15 IST" name="verifyLoginBtnFunctionalityWithValidUsernamePassword" finished-at="2025-06-28T08:29:20 IST" duration-ms="4957" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :    Status : PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginBtnFunctionalityWithValidUsernamePassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:29:20 IST" name="teardown" finished-at="2025-06-28T08:29:21 IST" duration-ms="498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:29:21 IST" name="setup" finished-at="2025-06-28T08:29:24 IST" duration-ms="3420" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginBtnFunctionalityWithValidUsernamePassword(java.lang.String,java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:29:24 IST" name="verifyLoginBtnFunctionalityWithValidUsernamePassword" data-provider="logindata" finished-at="2025-06-28T08:29:28 IST" duration-ms="3667" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :standard_user  secret_sauce    Status : PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginBtnFunctionalityWithValidUsernamePassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:29:28 IST" name="teardown" finished-at="2025-06-28T08:29:29 IST" duration-ms="443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:29:29 IST" name="setup" finished-at="2025-06-28T08:29:34 IST" duration-ms="5246" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginBtnFunctionalityWithValidUsernamePassword(java.lang.String,java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:29:34 IST" name="verifyLoginBtnFunctionalityWithValidUsernamePassword" data-provider="logindata" finished-at="2025-06-28T08:29:38 IST" duration-ms="3731" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :standard_user  secret_sauce    Status : PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginBtnFunctionalityWithValidUsernamePassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:29:38 IST" name="teardown" finished-at="2025-06-28T08:29:38 IST" duration-ms="522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:29:38 IST" name="setup" finished-at="2025-06-28T08:29:43 IST" duration-ms="5251" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginBtnFunctionalityWithValidUsernamePassword(java.lang.String,java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:29:43 IST" name="verifyLoginBtnFunctionalityWithValidUsernamePassword" data-provider="logindata" finished-at="2025-06-28T08:29:47 IST" duration-ms="3765" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :standard_user  secret_sauce    Status : PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginBtnFunctionalityWithValidUsernamePassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:29:47 IST" name="teardown" finished-at="2025-06-28T08:29:48 IST" duration-ms="492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:29:48 IST" name="setup" finished-at="2025-06-28T08:29:51 IST" duration-ms="3768" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginBtnFunctionalityWithValidUsernamePassword(java.lang.String,java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:29:51 IST" name="verifyLoginBtnFunctionalityWithValidUsernamePassword" data-provider="logindata" finished-at="2025-06-28T08:29:55 IST" duration-ms="3721" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :standard_user  secret_sauce    Status : PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginBtnFunctionalityWithValidUsernamePassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:29:55 IST" name="teardown" finished-at="2025-06-28T08:29:56 IST" duration-ms="483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:29:56 IST" name="setup" finished-at="2025-06-28T08:29:59 IST" duration-ms="3267" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginBtnFunctionalityWithValidUsernamePassword(java.lang.String,java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:29:59 IST" name="verifyLoginBtnFunctionalityWithValidUsernamePassword" data-provider="logindata" finished-at="2025-06-28T08:30:03 IST" duration-ms="3746" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :standard_user  secret_sauce    Status : PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginBtnFunctionalityWithValidUsernamePassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:30:03 IST" name="teardown" finished-at="2025-06-28T08:30:03 IST" duration-ms="390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:30:03 IST" name="setup" finished-at="2025-06-28T08:30:08 IST" duration-ms="5122" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginBtnFunctionalityWithValidUsernamePassword(java.lang.String,java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:30:08 IST" name="verifyLoginBtnFunctionalityWithValidUsernamePassword" data-provider="logindata" finished-at="2025-06-28T08:30:12 IST" duration-ms="3765" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :standard_user  secret_sauce    Status : PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginBtnFunctionalityWithValidUsernamePassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:30:12 IST" name="teardown" finished-at="2025-06-28T08:30:12 IST" duration-ms="456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:30:12 IST" name="setup" finished-at="2025-06-28T08:30:15 IST" duration-ms="3044" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginBtnFunctionalityWithValidUsernamePassword(java.lang.String,java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:30:15 IST" name="verifyLoginBtnFunctionalityWithValidUsernamePassword" data-provider="logindata" finished-at="2025-06-28T08:30:19 IST" duration-ms="3714" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :standard_user  secret_sauce    Status : PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginBtnFunctionalityWithValidUsernamePassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:30:19 IST" name="teardown" finished-at="2025-06-28T08:30:20 IST" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:30:20 IST" name="setup" finished-at="2025-06-28T08:30:24 IST" duration-ms="4671" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginBtnFunctionalityWithValidUsernamePassword(java.lang.String,java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:30:24 IST" name="verifyLoginBtnFunctionalityWithValidUsernamePassword" data-provider="logindata" finished-at="2025-06-28T08:30:28 IST" duration-ms="3694" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[verifyLoginBtnFunctionalityWithValidUsernamePassword :standard_user  secret_sauce    Status : PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginBtnFunctionalityWithValidUsernamePassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:30:28 IST" name="teardown" finished-at="2025-06-28T08:30:29 IST" duration-ms="573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:30:29 IST" name="setup" finished-at="2025-06-28T08:30:32 IST" duration-ms="3854" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginBtnFunctionalityWithValidUsernamePassword(java.lang.String,java.lang.String)[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:30:32 IST" name="verifyLoginBtnFunctionalityWithValidUsernamePassword" data-provider="logindata" finished-at="2025-06-28T08:30:36 IST" duration-ms="3584" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sagdhfgdhs]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jahgfdshgfhsd]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Testscript failed as Prodcut Title not visible expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Testscript failed as Prodcut Title not visible expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at testscripts.LoginpageTest.verifyLoginBtnFunctionalityWithValidUsernamePassword(LoginpageTest.java:97)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginBtnFunctionalityWithValidUsernamePassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testscripts.LoginpageTest@2a693f59]" started-at="2025-06-28T08:30:36 IST" name="teardown" finished-at="2025-06-28T08:30:37 IST" duration-ms="492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testscripts.LoginpageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
